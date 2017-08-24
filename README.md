@@ -1,2 +1,2 @@
-# python.project
-Just a few Python files that I have made
+# coding.project
+Just a few coding files that I have made.
